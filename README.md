@@ -14,6 +14,9 @@ npm run start
 ```
 npm run dev
 ```
+### 浏览器打开
+localhost:8002/index 是服务端渲染
+localhost:8003/index 是普通渲染
 
 ### 效果展示
 * ssr效果:
